@@ -1,6 +1,6 @@
 {
-  "name": "Iframe PWA App",
-  "short_name": "IframePWA",
+  "name": "Landscape Only PWA",
+  "short_name": "LandscapePWA",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
